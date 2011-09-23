@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>--input</key>
+	<array>
+		<string>CocoaLumberjackNSLoggerFramework</string>
+	</array>	
+	<key>--ignore</key>
+	<array>
+		<string>docs</string>
+		<string>Libraries</string>
+		<string>Frameworks</string>
+		<string>Tests</string>
+	</array>
+	<key>--project-name</key>
+	<string>CocoaLumberjackNSLogger</string>
+	<key>--company-id</key>
+	<string>raku</string>
+	<key>--project-company</key>
+	<string>Raku</string>
+	<key>--create-docset</key>
+	<false/>
+	<key>--output</key>
+	<string>docs/appledoc</string>
+</dict>
+</plist>
